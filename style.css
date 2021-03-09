@@ -1,0 +1,22 @@
+/* BASIC BOILER PLATE */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #35227a;
+    font-family: "Avenir Next", "Avenir", sans-serif;
+}
+
+.tjejer-kodar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 400px
+}
+
+.tjejer-kodar img {
+    height: 150px;
+}
+
+
+/* YOUR CODE GOES BELOW THIS LINE */
